@@ -2,7 +2,7 @@ name: Codacy Analysis CLI
 
 on:
   push:
-    branches: [ "george" ]
+    branches: [ "george-gav" ]
 
 jobs:
   codacy-analysis-cli:
